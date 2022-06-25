@@ -1,0 +1,15 @@
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/bin/Debug/net6.0/NasledovaniePolimorfizm
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/bin/Debug/net6.0/NasledovaniePolimorfizm.deps.json
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/bin/Debug/net6.0/NasledovaniePolimorfizm.runtimeconfig.json
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/bin/Debug/net6.0/NasledovaniePolimorfizm.dll
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/bin/Debug/net6.0/ref/NasledovaniePolimorfizm.dll
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/bin/Debug/net6.0/NasledovaniePolimorfizm.pdb
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.csproj.AssemblyReference.cache
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.AssemblyInfoInputs.cache
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.AssemblyInfo.cs
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.csproj.CoreCompileInputs.cache
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.dll
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/ref/NasledovaniePolimorfizm.dll
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.pdb
+/home/roma/RiderProjects/NasledovaniePolimorfizm/NasledovaniePolimorfizm/obj/Debug/net6.0/NasledovaniePolimorfizm.genruntimeconfig.cache
